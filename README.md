@@ -213,18 +213,6 @@ Open the Jupyter Notebook and execute the cells sequentially.
 
 **Important:** Update the CSV file path in the notebook to match the location of the dataset on your computer.
 
-## 🔮 Future Improvements
-
-- Add an interactive sales dashboard.
-- Analyze yearly sales and profit trends.
-- Investigate the impact of discounts on profitability.
-- Compare regional sales performance.
-- Identify the most profitable products.
-- Analyze shipping time and shipping mode performance.
-- Add automated data quality checks.
-- Export key findings and visualizations into a business report.
-
-
 
 ## 📌 Conclusion
 
