@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Sales Analysis 📊
 
 ## 📌 Project Overview
@@ -234,3 +235,7 @@ By analyzing sales trends, product categories, sub-categories, customer segments
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
+=======
+# ecommerce-sales-analysis-python
+E-Commerce Sales Analysis using Python, Pandas, and Plotly.
+>>>>>>> 11c0cef577c2f67c7fbd6f5cdd9d3fe463b4d441
